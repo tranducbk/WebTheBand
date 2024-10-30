@@ -1,0 +1,12 @@
+Những thành phần thường gặp trên giao diện website
+1. Header (Đầu trang)
+2. Navigation (Điều hướng của trang)
+3. Breadcrumb (Thanh chỉ vị trí)
+4. Slidebar (Menu của trang web)
+5. Slider (Thành phần chuyển động của trang web)
+6. Content (Nội dung chính của trang web)
+    about
+    tour
+    contact
+    image
+    footer
